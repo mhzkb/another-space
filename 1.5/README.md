@@ -4,6 +4,8 @@ Extended version of Another Space with support for 15u bars and alpha stagger.
 
 __Untested PCB - Proceed at your own risk!__
 
+Note 15u stabs are only supported for the the bottom row. For the remaining rows either use 7u stabs or update the footprints in the Kicad files.
+
 ## PCB
 
 ### Front
